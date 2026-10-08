@@ -1,2 +1,2 @@
-<h1> Hello, Welcome to Tenzin Technologies !!! Update1 </h1>
+<h1> Hello, Welcome to Tenzin Technologies !!! Update2 </h1>
 
